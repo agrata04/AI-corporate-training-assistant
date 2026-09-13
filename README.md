@@ -1,6 +1,6 @@
 # AI Corporate Training Assistant
 
-A cross-platform Electron desktop app for creating corporate training assets from local source documents using Gemini, Claude, OpenAI, Hugging Face, or OpenRouter.
+A cross-platform Electron desktop app for creating corporate training assets from local source documents using Gemini, Claude, OpenAI, Hugging Face, or OpenRouter api keys 
 
 The application works on the user's computer. Projects, uploaded files, extracted text, AI outputs, chat history, settings, and export history are stored locally. The only cloud dependency is the selected AI provider API, configured by the user in Settings.
 
